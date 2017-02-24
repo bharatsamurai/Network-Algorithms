@@ -66,5 +66,5 @@ while q < len(S):
 	q +=1
 
 connq |= set(S)
-print('\nMinimum connected dominating set in the graph is =',connq)
+print('\nMinimum connected dominating set in the graph =',connq)
 print('\nDomination number of the graph =', len(connq)) 
