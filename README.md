@@ -1,7 +1,7 @@
 # Network-Algorithms
 Mathematical algorithms developed in python
 
-1. Minimum Dominating Set (minDominatingSet.py)
+## 1. Minimum Dominating Set (minDominatingSet.py)
 
 Calculates the Minimum Dominating Set in a given Graph
 
